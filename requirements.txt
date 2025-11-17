@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+joblib
+streamlit
+streamlit-authenticator
+transformers
+sentencepiece
+torch
