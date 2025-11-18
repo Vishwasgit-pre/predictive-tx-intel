@@ -26,6 +26,12 @@ predictive-tx-intel/
 ## 📦 Artifacts Notice
 Model files are **NOT included in GitHub** due to size limits.  
 Store them externally (e.g., Google Drive) and reference them in your repo.
+## 📁 Model Artifacts (Download)
+
+Because GitHub limits file sizes, the ML model files are stored on Google Drive.
+
+🔗 **Download Artifacts Here:**  
+https://drive.google.com/file/d/1wqWKyfLCgjcKj4VK-8Sc5rb0Gh61PgSC/view?usp=sharing
 
 Example structure:
 ```
